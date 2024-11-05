@@ -1,0 +1,109 @@
+﻿@model kiemketaisan.Models.TaiSan
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div style="margin-left:25%">
+    <h2>Thêm mới tài sản kiểm kê</h2>
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>Thông tin tài sản kiểm kê</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                <div class="control-label col-md-2">Tên tài sản</div>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.TenTS, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.TenTS, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-2">Nơi sử dụng</div>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.NoiSuDung, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.NoiSuDung, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-2">Năm đưa vào sử dụng</div>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.NamDVSD, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.NamDVSD, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-2">Số kiểm kê thực tế</div>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.SoKiemKeTT, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.SoKiemKeTT, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-2">Số theo sổ kế toán</div>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.SoTheoKeToan, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.SoTheoKeToan, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-2">Nguyên nhân</div>
+                <div class="col-md-10">
+                    <textarea name="NguyenNhan" rows="6" class="form-control"></textarea>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-2">Nguyên giá</div>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Gia, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Gia, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-2">Tình trạng thiết bị</div>
+                <div class="col-md-10">
+                    <select name="TinhTrang" class="form-control">
+                        <option>-- Chọn tình trạng thiết bị --</option>
+                        <option value="1">Đang hoạt động</option>
+                        <option value="2">Đang hư hỏng</option>
+                        <option value="3">Chưa sử dụng</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-2">Ghi chú</div>
+                <div class="col-md-10">
+                   <textarea name="GhiChu" rows="6" class="form-control"></textarea>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-1">
+                    <input type="submit" value="Thêm mới" class="btn btn-success" />
+                </div>
+                <div class="col-md-2">
+                    <a href="@Url.Action("Index","TaiSans")" class="btn btn-default">Trở lại</a>
+                </div>
+            </div>
+        </div>
+    }
+
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

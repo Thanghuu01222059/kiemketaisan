@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KiemKeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TaiSan">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenTS" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="NoiSuDung" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="NamDVSD" Type="Int32" />
+    <Property Name="SoKiemKeTT" Type="Int32" />
+    <Property Name="SoTheoKeToan" Type="Int32" />
+    <Property Name="NguyenNhan" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Gia" Type="Double" />
+    <Property Name="TinhTrang" Type="Int32" />
+    <Property Name="GhiChu" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="Data" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TaiSans" EntityType="Self.TaiSan" />
+  </EntityContainer>
+</Schema>

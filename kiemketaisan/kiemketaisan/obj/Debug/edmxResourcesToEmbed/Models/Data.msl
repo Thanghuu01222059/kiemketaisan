@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KiemKeModelStoreContainer" CdmEntityContainer="Data">
+    <EntitySetMapping Name="TaiSans">
+      <EntityTypeMapping TypeName="KiemKeModel.TaiSan">
+        <MappingFragment StoreEntitySet="TaiSan">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="TenTS" ColumnName="TenTS" />
+          <ScalarProperty Name="NoiSuDung" ColumnName="NoiSuDung" />
+          <ScalarProperty Name="NamDVSD" ColumnName="NamDVSD" />
+          <ScalarProperty Name="SoKiemKeTT" ColumnName="SoKiemKeTT" />
+          <ScalarProperty Name="SoTheoKeToan" ColumnName="SoTheoKeToan" />
+          <ScalarProperty Name="NguyenNhan" ColumnName="NguyenNhan" />
+          <ScalarProperty Name="Gia" ColumnName="Gia" />
+          <ScalarProperty Name="TinhTrang" ColumnName="TinhTrang" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,98 @@
+﻿@model IEnumerable<kiemketaisan.Models.TaiSan>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var stt = 0;
+}
+
+<h2>
+   Kiểm kê tài sản
+</h2>
+
+<p>
+    <a href="@Url.Action("Create","TaiSans")" class="btn btn-primary">Thêm mới</a>&nbsp;
+    <a href="@Url.Action("ExportExcel","TaiSans")" class="btn btn-success">Xuất file</a>
+</p>
+<table class="table table-bordered">
+    <tr style="text-align:center">
+        <th rowspan="2" style="text-align:center">STT</th>
+        <th rowspan="2" style="text-align:center">
+            Tên tài sản cố định
+        </th>
+        <th rowspan="2" style="text-align:center">
+            Nơi sử dụng
+        </th>
+        <th rowspan="2" style="text-align:center">
+            Năm đưa vào sử dụng
+        </th>
+        <th rowspan="2" style="text-align:center">
+           Số thực tế kiểm kê
+        </th>
+        <th rowspan="2" style="text-align:center">
+           Số theo sổ kế toán
+        </th>
+        <th style="text-align:center" colspan="2">Chênh lệch</th>
+
+        <th rowspan="2" style="text-align:center">
+            Nguyên giá (ĐVT: 1.000đ)
+        </th>
+        <th colspan="3" style="text-align:center">
+           Tình trạng thiết bị
+        </th>
+        <th rowspan="2" style="text-align:center">Ghi chú</th>
+        <th rowspan="2" style="text-align:center">Thao tác</th>
+    </tr>
+    <tr style="text-align:center">
+        <th style="text-align:center">Số lượng</th>
+        <th style="text-align:center">Nguyên nhân</th>
+
+        <th style="text-align:center">Đang hoạt động</th>
+        <th style="text-align:center">Đang hư hỏng</th>
+        <th style="text-align:center">Chưa sử dụng</th>
+    </tr>
+@foreach (var item in Model) {
+    stt++;
+    <tr class="text-center"><td>@stt</td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenTS)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NoiSuDung)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NamDVSD)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SoKiemKeTT)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SoTheoKeToan)
+        </td>
+        <td>@(item.SoTheoKeToan-item.SoKiemKeTT)</td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NguyenNhan)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gia)
+        </td>
+        <td>
+            @(item.TinhTrang==1?"X":"")
+        </td>
+        <td>
+            @(item.TinhTrang==2?"X":"")
+        </td>
+        <td>
+            @(item.TinhTrang==3?"X":"")
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GhiChu)
+        </td>
+        <td style="display:flex">
+            <a href="@Url.Action("Edit","TaiSans",new {id=item.Id})" class="btn btn-success">Sửa</a> &nbsp;
+            <a href="@Url.Action("Delete","TaiSans",new {id=item.Id})" class="btn btn-danger">Xóa</a>
+        </td>
+    </tr>
+}
+
+</table>

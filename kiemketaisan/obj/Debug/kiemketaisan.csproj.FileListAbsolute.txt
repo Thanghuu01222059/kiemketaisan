@@ -1,0 +1,172 @@
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\kiemketaisan.dll.config
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\kiemketaisan.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\kiemketaisan.pdb
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\csc.exe
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\csc.exe.config
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\csc.rsp
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\csi.exe
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\csi.exe.config
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\csi.rsp
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.AppContext.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Console.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.IO.Compression.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Net.Http.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.ValueTuple.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\vbc.exe
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\vbc.exe.config
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\vbc.rsp
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\VBCSCompiler.exe
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Antlr3.Runtime.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\EntityFramework.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\EntityFramework.SqlServer.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Newtonsoft.Json.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Helpers.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Mvc.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Optimization.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Razor.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.WebPages.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.WebPages.Razor.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\WebGrease.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\EntityFramework.xml
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\EntityFramework.SqlServer.xml
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Helpers.xml
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Mvc.xml
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Optimization.xml
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Razor.xml
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.WebPages.xml
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.WebPages.Razor.xml
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Newtonsoft.Json.xml
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Antlr3.Runtime.pdb
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\obj\Debug\kiemketaisan.csproj.AssemblyReference.cache
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\obj\Debug\kiemketaisan.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\obj\Debug\kiemketaisan.csproj.CopyComplete
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\obj\Debug\kiemketaisan.dll
+C:\Users\vanqu\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\obj\Debug\kiemketaisan.pdb
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\kiemketaisan.dll.config
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\kiemketaisan.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\kiemketaisan.pdb
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\csc.exe
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\csc.exe.config
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\csc.rsp
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\csi.exe
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\csi.exe.config
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\csi.rsp
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.AppContext.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Console.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.IO.Compression.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Net.Http.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.ValueTuple.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\vbc.exe
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\vbc.exe.config
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\vbc.rsp
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\VBCSCompiler.exe
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Antlr3.Runtime.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\EntityFramework.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\EntityFramework.SqlServer.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Newtonsoft.Json.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Helpers.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Mvc.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Optimization.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Razor.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.WebPages.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.WebPages.Razor.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\WebGrease.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\EntityFramework.xml
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\EntityFramework.SqlServer.xml
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Helpers.xml
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Mvc.xml
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Optimization.xml
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.Razor.xml
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.WebPages.xml
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\System.Web.WebPages.Razor.xml
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Newtonsoft.Json.xml
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Antlr3.Runtime.pdb
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\obj\Debug\kiemketaisan.csproj.AssemblyReference.cache
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\obj\Debug\kiemketaisan.csproj.CoreCompileInputs.cache
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\obj\Debug\kiemketaisan.csproj.CopyComplete
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\obj\Debug\kiemketaisan.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\obj\Debug\kiemketaisan.pdb
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\EPPlus.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\EPPlus.Interfaces.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\EPPlus.System.Drawing.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\EPPlus.xml
+C:\Users\Van Quynh\Desktop\kiemketaisan\kiemketaisan\kiemketaisan\bin\Microsoft.IO.RecyclableMemoryStream.xml
